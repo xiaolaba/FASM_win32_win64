@@ -12,7 +12,7 @@ SET FASM=E:\FASM
 
 ### download this project folder E:\FASM\my_project\win_hello
 
-### drag the asm file and drop to build.bat
-job done, ie. hello_win32.asm.exe will be generated.
-![my_project\win_hello\win32_test.JPG](my_project\win_hello\win32_test.JPG)
+### drag the asm file and drop to build.bat  
+job done, ie. hello_win32.asm.exe will be generated.  
+![my_project/win_hello/in32_test.JPG](my_project/win_hello/win32_test.JPG)
 
