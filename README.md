@@ -23,6 +23,12 @@ mine was E:\FASM\
 SET FASM=E:\FASM  
 ```
 
+然後網路搜尋了一些參考的資料, 繼續用 FASM, 果然很快就做好了一個 win10 64位元的應用程序示範, 抄來的源碼. 初次用 FASM 列出 LISTING, 看了一陣子 HELP, 寫了一個 build.bat, 方便編譯不用每次手動輸入指令.   
+build.bat, 編譯源碼用,   
+例如把 a.asm 拖到這個 build.bat, 就會執行編譯動作, 產生 a.asm.exe.   
+如果用 command prompt 手工輸入, 等同以下指令,
+fasm a.asm a.asm.exe
+
 ### drag the asm file and then drop to build.bat  
 job done, ie. hello_win32.asm.exe will be generated.
 
