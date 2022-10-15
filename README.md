@@ -10,9 +10,9 @@ decompress to default folder as you like. mine was E:\FASM\
 SET FASM=E:\FASM
 ```
 
-### download this project folder win64pe
+### download this project folder E:\FASM\my_project\win_hello
 
 ### drag the asm file and drop to build.bat
 job done, ie. hello_win32.asm.exe will be generated.
-![win32_test.JPG](win32_test.JPG)
+![my_project\win_hello\win32_test.JPG](my_project\win_hello\win32_test.JPG)
 
