@@ -2,11 +2,14 @@
 batch file to build the testing program, hello world
 
 
-download FASM, https://flatassembler.net/download.php  
-decompress to default folder as you like. mine was E:\FASM\
+### download FASM
+https://flatassembler.net/download.php    
+
+### decompress to default folder as you like
+mine was E:\FASM\
 
 
-### download this project folder E:\FASM\my_project\win_hello
+### download this project folder \my_project\win_hello
 
 
 ### Edit batch file for your FASM and path stored  
