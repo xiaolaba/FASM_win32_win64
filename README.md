@@ -3,7 +3,7 @@ batch file to build the testing program, hello world
 
 numbers of project for testing
 
-### hello_world
+### win_hello
 basic to the build and easy step
 
 ### download FASM
