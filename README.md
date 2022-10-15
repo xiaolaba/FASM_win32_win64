@@ -1,6 +1,9 @@
 # FASM_win32_win64_hello_world
 batch file to build the testing program, hello world
 
+numbers of project for testing
+
+basic to the build and easy step
 
 ### download FASM
 https://flatassembler.net/download.php    
