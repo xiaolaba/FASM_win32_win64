@@ -9,7 +9,7 @@ decompress to default folder as you like. mine was E:\FASM\
 ### download this project folder E:\FASM\my_project\win_hello
 
 
-### Edit batch file for your FASM and path stpred  
+### Edit batch file for your FASM and path stored  
 [my_project/win_hello/build.bat](my_project/win_hello/build.bat)  
 ```
 SET FASM=E:\FASM  
