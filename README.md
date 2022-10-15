@@ -9,10 +9,11 @@ https://flatassembler.net/download.php
 mine was E:\FASM\
 
 
-### download this project folder \my_project\win_hello
+### download this project folder
+[my_project\win_hello](my_project\win_hello)  
 
 
-### Edit batch file for your FASM and path stored  
+### Edit batch file for your FASM and path stored   
 [my_project/win_hello/build.bat](my_project/win_hello/build.bat)  
 ```
 SET FASM=E:\FASM  
